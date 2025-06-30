@@ -63,6 +63,7 @@
 			"13": true,
 			"14": true,
 			"15": true,
+			"828": true,
 			"_merge_strategy": "array_plus"
 		},
 		"DeletePagesForGoodDeleteContent": true
